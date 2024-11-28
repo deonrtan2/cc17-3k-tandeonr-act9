@@ -76,4 +76,4 @@ The app uses a **SQLite database** with the following two tables:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/cc17-3k-pacalsojjc-act9.git](https://github.com/deonrtan2/cc17-3k-tandeonr-act9.git)
+   git clone https://github.com/deonrtan2/cc17-3k-tandeonr-act9.git
